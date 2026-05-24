@@ -16,7 +16,9 @@ public class Actions {
 	}
 	
 	
-	
+	private void suren() {
+		System.out.println("Project to bee end");
+	}
 	
 	
 }
