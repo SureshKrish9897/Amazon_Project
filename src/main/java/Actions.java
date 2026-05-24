@@ -14,7 +14,17 @@ public class Actions {
 		
 		
 	}
+<<<<<<< HEAD
+	private void pandees() {
+		System.out.println("Hi am panddddddsss");
+=======
 	
+	private void Krish() {
+		
+	System.out.println("Hi am Krishna");
+	
+>>>>>>> f254af96998ff41cd40990b2dadb87a2989f322a
+	}
 	
 	private void suren() {
 		System.out.println("Project to bee end");
