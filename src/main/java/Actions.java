@@ -14,7 +14,9 @@ public class Actions {
 		
 		
 	}
-	
+	private void pandees() {
+		System.out.println("Hi am panddddddsss");
+	}
 	
 	
 	
