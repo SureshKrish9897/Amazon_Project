@@ -15,6 +15,11 @@ public class Actions {
 		
 	}
 	
+	private void Krish() {
+		
+	System.out.println("Hi am Krishna");
+	
+	}
 	
 	
 	
